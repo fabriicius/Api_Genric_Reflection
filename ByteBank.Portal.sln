@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank.Portal", "ByteBank.Portal\ByteBank.Portal.csproj", "{30B47697-0379-4A1B-8D0D-81B22E696A0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank.Service", "ByteBank.Service\ByteBank.Service.csproj", "{81817591-ECAA-4EE9-8EAC-5B2F732DB487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank.Test", "ByteBank.Test\ByteBank.Test.csproj", "{96EFA716-C1C4-4AFD-A67D-68D688AADD9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30B47697-0379-4A1B-8D0D-81B22E696A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B47697-0379-4A1B-8D0D-81B22E696A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B47697-0379-4A1B-8D0D-81B22E696A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B47697-0379-4A1B-8D0D-81B22E696A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81817591-ECAA-4EE9-8EAC-5B2F732DB487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81817591-ECAA-4EE9-8EAC-5B2F732DB487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81817591-ECAA-4EE9-8EAC-5B2F732DB487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81817591-ECAA-4EE9-8EAC-5B2F732DB487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96EFA716-C1C4-4AFD-A67D-68D688AADD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96EFA716-C1C4-4AFD-A67D-68D688AADD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96EFA716-C1C4-4AFD-A67D-68D688AADD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96EFA716-C1C4-4AFD-A67D-68D688AADD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

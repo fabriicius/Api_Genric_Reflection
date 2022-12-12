@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ByteBank.Portal/1.0.0": {
+        "dependencies": {
+          "ByteBank.Service": "1.0.0"
+        },
+        "runtime": {
+          "ByteBank.Portal.dll": {}
+        }
+      },
+      "ByteBank.Service/1.0.0": {
+        "runtime": {
+          "ByteBank.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ByteBank.Portal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ByteBank.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

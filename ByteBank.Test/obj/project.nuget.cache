@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "sPDh2LLI+94Bmkw/19eLcGj8s/DP3EICWsvHMa9d/slhmrHh/4qioKgCsoHp99twx7Uti3lDgo4L54Nd/HtyKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabri\\Documents\\Alura\\c#\\Reflecton\\ByteBank.Test\\ByteBank.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabri\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\fabri\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
+    "C:\\Users\\fabri\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",
+    "C:\\Users\\fabri\\.nuget\\packages\\mstest.testadapter\\2.2.8\\mstest.testadapter.2.2.8.nupkg.sha512",
+    "C:\\Users\\fabri\\.nuget\\packages\\mstest.testframework\\2.2.8\\mstest.testframework.2.2.8.nupkg.sha512"
+  ],
+  "logs": []
+}
